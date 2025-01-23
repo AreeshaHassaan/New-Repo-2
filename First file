@@ -1,2 +1,8 @@
-Console.WriteLine("Areesha Hassaan");
-Console.WriteLine("2024-SET-035");
+Console.WriteLine("2nd Sem Subjects : ");
+
+Console.WriteLine("English");
+Console.WriteLine("S.Studies");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Computer");
+Console.WriteLine("Maths");
+Console.WriteLine("Uedu");
