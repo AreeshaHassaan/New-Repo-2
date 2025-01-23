@@ -1,11 +1,2 @@
 Console.WriteLine("Areesha Hassaan");
 Console.WriteLine("2024-SET-035");
-
-Console.WriteLine("FSc Subjects : ");
-
-Console.WriteLine("Islamiyat");
-Console.WriteLine("Maths");
-Console.WriteLine("Computer ");
-Console.WriteLine("English");
-Console.WriteLine("EHS");
-Console.WriteLine("Physics");
