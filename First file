@@ -1,8 +1,8 @@
 Console.WriteLine("2nd Sem Subjects : ");
 
 Console.WriteLine("English");
-Console.WriteLine("statistics");
-Console.WriteLine("OOP");
-Console.WriteLine("SDLC");
-Console.WriteLine("SCM");
-Console.WriteLine("Discrete Structure");
+Console.WriteLine("S.Studies");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Computer");
+Console.WriteLine("Maths");
+Console.WriteLine("Uedu");
