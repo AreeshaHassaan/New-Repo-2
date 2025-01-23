@@ -1,1 +1,8 @@
-Console. Writeline("736574806" ) ;
+Console.WriteLine("1st Semester : ");
+
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Calculus");
+Console.WriteLine("Computer Programming");
+Console.WriteLine("IT Skills");
+Console.WriteLine("EHS");
+Console.WriteLine("Apllied Physics");
